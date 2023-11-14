@@ -59,7 +59,7 @@ const Login = () => {
 
 <div className="flex justify-end mt-3">
   <div className="text-sm">
-    Don't have an account? <Link href="/" className="underline cursor-pointer">Register</Link>
+    Don&apos;t have an account? <Link href="/" className="underline cursor-pointer">Register</Link>
   </div>
 </div>
       </form>
